@@ -1,0 +1,14 @@
+.App-header {
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  font-size: calc(20px + 2vmin);
+  font-weight: 700;
+  color: #18C3E5;
+}
+
+.App-sub-header {
+  font-size: calc(8px + 2vmin);
+  color: #fff;
+  opacity: .6;
+}
